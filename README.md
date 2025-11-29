@@ -55,3 +55,4 @@ Full Wave Rectifier With Filter
 
 
 ## RESULT:
+![WhatsApp Image 2025-11-29 at 10 27 13_b57a4fa4](https://github.com/user-attachments/assets/88421b38-b266-4b39-a1ad-906c4be20284)
